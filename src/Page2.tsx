@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Page2: React.FC = () => (
-    <h2>Success!</h2>
+    <h2 className="message">Success!</h2>
 );
 
 export default Page2;
